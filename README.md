@@ -121,7 +121,9 @@ Execute the program
 
 ## Web page:
 
-![Web_page_output](./img/sec.png)
+![Screenshot from 2023-01-29 22-02-39](https://user-images.githubusercontent.com/119477817/215340508-953a6d56-6444-43e6-9b99-96b89ec25790.png)
+![Screenshot from 2023-01-29 22-03-09](https://user-images.githubusercontent.com/119477817/215340517-fc773c2d-4bb2-485e-8d82-1fcf02cd6d59.png)
+
 
 # Result:
 
